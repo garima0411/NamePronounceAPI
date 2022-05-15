@@ -1,0 +1,3 @@
+---
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=pronunciationtool;AccountKey=pCY1eKnv7l8IlKmU4VueEnPbhgmXHDeQVpDPYaYzEKE2S7SP4dTCDdfTRO+2am23xT55q9F6o2A6+ASttQDUuA==;EndpointSuffix=core.windows.net"
+container_name: "zionpronounciation"
